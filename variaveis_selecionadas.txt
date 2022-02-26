@@ -1,0 +1,103 @@
+Dicionário das variáveis da PNAD COVID:
+
+
+CAPITAL 	Capital		33	Município de Rio de Janeiro (RJ)
+
+A002		A2		Idade do morador 	000 a 130	Idade (em anos)
+
+
+
+C007B		C7b	Tem carteria de trabalho assinada ou é funcionário público estatutário?	
+				1	Sim, tem carteira de trabalho assinada
+				2	Sim, é servidor público estatutário
+				3	Não
+				0	Não aplicável
+
+
+Parte D - Rendimento de outras fontes dos moradores de 14 anos ou mais de idade	
+
+
+D0031		D1	Rendimentos de Programa Bolsa Família
+				1	Sim
+				2	Não
+
+
+
+D0033		D1	Somatório dos valores recebidos	valor em reais	
+				Não aplicável
+
+
+
+D0051		D1	Auxilios emergenciais relacionados ao coronavirus
+				1	Sim
+				2	Não
+
+
+
+D0053		D1	Somatório dos valores recebidos	valor em reais	
+				Não aplicável
+
+
+
+D0061		D1	Seguro desemprego	
+				1	Sim
+				2	Não
+
+
+D0063		D1	Somatório dos valores recebidos	valor em reais	
+				Não aplicável
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			
